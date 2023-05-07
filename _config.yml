@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: data
+url: http://dy.iikn.cn/ #yoururl
+title: data
+description: data
 twitter:
   username: #yourusername
   card: summary
